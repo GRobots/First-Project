@@ -1,0 +1,106 @@
+.navbar{
+	background-color: transparent;
+	color: white;
+	text-decoration: none;
+	margin-bottom: 0px;
+
+}
+.pink-document{
+	background-image:url('../img/3.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: pink;
+	padding-top: 183px;
+	padding-bottom: 37px;
+	color: white;
+	padding-left: 800px;
+}
+.gray{
+	background-color: #4a4141;
+	color: white;
+	padding: 20px 20px 100px;
+	margin: 0px 0px;
+}
+.pink{
+	background-color: salmon;
+	color: white;
+	padding: 20px 20px 100px;
+}
+.green{
+	background-color: lightgreen;
+	color: white;
+	padding: 20px 20px 100px;
+}
+.col-md-4{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.cola{
+	background-image:url('../img/three.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: white;
+	background-repeat: no-repeat;
+}
+.one{
+	background-color: green;
+	padding-top: 15px;}
+.two{
+	background-color: black;
+	padding-top: 15px;}
+.three{
+	background-color: pink;
+	padding-top: 15px;}
+.four{
+	background-color: orange;
+	padding-top: 15px;}
+.five{
+	background-color: green;
+	padding-top: 15px;}
+.six{
+	background-color: black;
+	padding-top: 15px;}
+.seven{
+	background-color: pink;
+	padding-top: 15px;}
+.eight{
+	background-color: orange;
+	padding-top: 15px;}
+.nine{
+	background-color: green;
+	padding-top: 15px;}
+.ten{
+	background-color: black;
+	padding-top: 15px;}
+.elev{
+	background-color: pink;
+	padding-top: 15px;}
+.twelv{
+	background-color: orange;
+	padding-top: 15px;}
+.t{
+	background-color: transparent;
+	color:white;
+}
+.three1{
+	background-color: pink;
+	padding-top: 35px;
+	width: 4px;}
+.four1{
+	background-color: orange;
+	padding-top: 35px;
+width: 4px;}
+.five1{
+	background-color: green;
+	padding-top: 35px;
+width: 4px;}
+.six1{
+	background-color: black;
+	padding-top: 35px;
+width: 4px;}
+.seven1{
+	background-color: pink;
+	padding-top: 35px;
+width: 4px;}
